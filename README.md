@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratham Patil</h1>
-<h3 align="center">A boy Exploring the world of technology.</h3>
+<h3 align="center">Exploring the world of technology.</h3>
 
 - 🌱 I’m currently learning **Vue.js**
 
